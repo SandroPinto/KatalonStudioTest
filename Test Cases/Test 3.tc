@@ -3,6 +3,7 @@
    <description></description>
    <name>Test 3</name>
    <tag></tag>
-   <comment>Test 3</comment>
+   <comment>Comment 1
+Comment 2</comment>
    <testCaseGuid>733e1795-9454-4b96-88a9-ced4967aed7d</testCaseGuid>
 </TestCaseEntity>
