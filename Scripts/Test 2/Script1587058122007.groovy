@@ -17,3 +17,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.comment('Added comment')
 
+WebUI.comment('Added Comment 3')
+
